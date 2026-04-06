@@ -17,9 +17,9 @@ const projects = [
   },
   {
     id: 3,
-    title: 'Users Outrage',
-    category: 'Documentary Thumbnail',
-    image: 'https://res.cloudinary.com/dzemozvwp/image/upload/v1775470508/USERS_OUTRAGE_20260305_085148_0000_ujzkgd.png',
+    title: 'Spending 17 Hour as A Rich Man',
+    category: 'Vlog Thumbnail',
+    image: 'https://res.cloudinary.com/dzemozvwp/image/upload/v1775481605/R3NDER_GFX_20260405_210123_0000_1_bs8yxa.png',
   },
   {
     id: 4,
