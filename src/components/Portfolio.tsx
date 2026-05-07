@@ -39,6 +39,18 @@ const projects = [
     category: 'Gaming Thumbnail',
     image: 'https://res.cloudinary.com/dzemozvwp/image/upload/v1775470499/_storage_emulated_0_Pictures_Gallery_owner_GFX_WORKS_Untitled114_20251209154124_wrscbc.jpg',
   },
+   {
+    id: 5,
+    title: 'Asia Cup ',
+    category: 'Gaming Thumbnail',
+    image: 'https://res.cloudinary.com/dzemozvwp/image/upload/v1778142088/Untitled7_20251110202050_dv2jiv.jpg',
+  },
+   {
+    id: 6,
+    title: 'Guild Matches ',
+    category: 'Gaming Thumbnail',
+    image: 'https://res.cloudinary.com/dzemozvwp/image/upload/v1778142089/SAVE_20251211_083338_eoxmhm.jpg',
+  },
   
 ];
 
